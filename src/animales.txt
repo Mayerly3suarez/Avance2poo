@@ -1,0 +1,1 @@
+Ardilla,pequeña,roedor,Campus Universitario;Zarigüeya,Mediana,mamífero,CAU;Iguana,pequeña,reptil,Campus Universitario;
